@@ -1,2 +1,2 @@
 # TextInputLayoutSample
-Sample shows different possible implementations of TextInputLayout.
+This app shows different possible implementations of TextInputLayout.
